@@ -1,10 +1,10 @@
 {
   "title": "Podcasts",
-    "slug": "/podcast",
-      "resources": [
-           {
-                 "title": "Vanguard Garage Gaming",
-                       "url": "https://anchor.fm/vanguardgaragegaming"
-                           }
-                                                                     ]
-                                                                     }
+  "slug": "/podcasts",
+  "resources": [
+     {
+      "title": "Vanguard Garage Gaming",
+      "url": "https://anchor.fm/vanguardgaragegaming"
+    }
+  ]
+}
