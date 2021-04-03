@@ -1,2 +1,10 @@
-Vanguard Garage Gaming 
-  https://anchor.fm/vanguardgaragegaming
+{
+  "title": "Podcasts",
+    "slug": "/podcast",
+      "resources": [
+           {
+                 "title": "Vanguard Garage Gaming",
+                       "url": "https://anchor.fm/vanguardgaragegaming"
+                           }
+                                                                     ]
+                                                                     }
