@@ -2,10 +2,11 @@
   "title": "Instagram",
   "slug": "/instagram",
   "resources": [
+     {
+      "title": "Orcryst Gaming",
+      "url": "https://www.instagram.com/orcrystgaming/",
+    },
     {
-  "title": "Orcryst Gaming",
-  "slug": "/instagram",
-  "resources": [
     {
       "title": "Ulverbite Miniatures",
       "url": "https://www.instagram.com/ulverbiteminiatures/",
