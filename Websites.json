@@ -3,12 +3,16 @@
   "slug": "/websites",
   "resources": [
      {
-      "title": "Conquest Eternal",
+      "title": "Conquest Eternal (EN)",
       "url": "https://conquesteternal.com"
     },
     {
-      "title": "Underspire",
+      "title": "Underspire (EN)",
       "url": "http://www.underspire.com"
+    },
+    {
+      "title": "Cargad (ES)",
+      "url": "https://cargad.com/"
     }
   ]
 }
