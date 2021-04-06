@@ -1,6 +1,12 @@
 {
   "title": "Facebook and Social Groups",
   "slug": "/social",
+  "redditresources": [
+    {
+      "title": "/r/Conquest",
+      "url": "https://www.reddit.com/r/Conquest/"
+    }
+   ],
   "fbresources": [
     {
       "title": "New England Conquest (EN)",
