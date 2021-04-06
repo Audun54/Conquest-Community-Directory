@@ -1,7 +1,7 @@
 {
   "title": "Websites",
   "slug": "/websites",
-  "resources": [
+  "webresources": [
      {
       "title": "Conquest Eternal (EN)",
       "url": "https://conquesteternal.com"
@@ -13,6 +13,12 @@
     {
       "title": "Cargad (ES)",
       "url": "https://cargad.com/"
+    }
+  ],
+    "blogresources": [
+    {
+      "title": "",
+      "url": ""
     }
   ]
 }
