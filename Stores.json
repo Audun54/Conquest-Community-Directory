@@ -2,55 +2,55 @@
   "title": "Stores",
   "slug": "/stores",
   "alabamaresources": [
-{
+    {
       "title": "Gamers N Geeks - Mobile, Alabama, USA (EN)",
       "url": "https://www.facebook.com/GamersNGeeks/"
     }
-	],
-"connecticutresources": [
-{
+  ],
+  "connecticutresources": [
+    {
       "title": "The Portal - Manchester, Connecticut, USA (EN)",
       "url": "https://www.facebook.com/TimeMachinePortal"
     }
-	],
-"floridaresources": [
-{
+  ],
+  "floridaresources": [
+    {
       "title": "Bearded Browncoat Comics and Games - Ocala, Florida, USA (EN)",
       "url": "http://browncoatcomicsandgames.com/"
     }
-	],
-"georgiaresources": [
-{
+  ],
+  "georgiaresources": [
+    {
       "title": "HobbyTown United States - Kennesaw, Georgia, USA (EN)",
       "url": "https://www.hobbytown.com/kennesaw-ga/l111"
     },
-{
+    {
       "title": "Giga-Bites Tabletop Cafe - Marietta, Georgia, USA (EN)",
       "url": "https://giga-bitescafe.com/"
     },
-	{
+    {
       "title": "Quest Comic Shop - Carrollton, Georgia, USA (EN)",
       "url": "http://www.questcomicshop.com/"
     }
-],
-"illinoisresources": [
-		    {
+  ],
+  "illinoisresources": [
+    {
       "title": "Tyton Games - Charles, Illinois, USA (EN)",
       "url": "http://www.tytongames.com"
     },
-	    {
+    {
       "title": "Otherside Games - Edwardsville, Illinois, USA (EN)",
       "url": "https://www.facebook.com/othersidegameshq/"
-    },
-	],
-"indianaresources": [
-{
+    }
+  ],
+  "indianaresources": [
+    {
       "title": "Tier 1 Games - Lafayette, Indiana, USA (EN) ",
       "url": "https://www.facebook.com/Tier1GamesLafayette/"
-    },
-],
-"iowaresources": [   
- {
+    }
+  ],
+  "iowaresources": [
+    {
       "title": "The Hobby Corner - Iowa City, Iowa, USA (EN)",
       "url": "https://www.hobbycorner.net/"
     },
@@ -58,190 +58,191 @@
       "title": "Geekified - Vinton, Iowa, USA (EN)",
       "url": "https://www.geekified.us/"
     }
-	],
-"kentuckyresources": [
-{
+  ],
+  "kentuckyresources": [
+    {
       "title": "Heroes Comics and Gaming - Louisville, Kentucky, USA (EN)",
       "url": "http://www.heroescg.com/"
     },
-{
+    {
       "title": "Hard Knox Games - Elizabethtown, Kentucky, USA (EN)",
       "url": "https://hardknoxgames.com/"
     }
-],
-"marylandresources": [
-{
+  ],
+  "marylandresources": [
+    {
       "title": "Chuck's Comics - Baltimore, Maryland, USA (EN)",
       "url": "http://www.chuckscomics.com/index.shtm"
     }
-	],
-"michiganresources": [
-{
+  ],
+  "michiganresources": [
+    {
       "title": "The Gaming Cantina - Charlotte, Michigan, USA (EN)",
       "url": "http://www.thegamingcantina.com/"
     },
-	{
+    {
       "title": "Golden Rhino Games - Ypsilanti, Michigan, USA (EN)",
       "url": "http://goldenrhinogames.com/"
     }
-	],
-"minnesotaresources": [
-{
+  ],
+  "minnesotaresources": [
+    {
       "title": "Red Dragon Gaming - New Ulm, Minnesota, USA (EN)",
       "url": "https://www.facebook.com/RedDragonGameStore/"
     }
-	],
-"missouriresources": [
+  ],
+  "missouriresources": [
     {
       "title": "Level One Game Shop - Kansas City, Missouri, USA (EN)",
       "url": "https://levelonegameshop.com/"
     }
-],
-"montanaresources": [
-{
+  ],
+  "montanaresources": [
+    {
       "title": "King of Games - Miles City, Montana, USA (EN)",
       "url": "https://www.facebook.com/kingofgamesMC/"
     }
-	],
-"newhampshireresources": [
-{
+  ],
+  "newhampshireresources": [
+    {
       "title": "The Relentless Dragon - Nashua, New Hampshire, USA (EN)",
       "url": "https://relentlessdragon.com/"
     },
-{
+    {
       "title": "The Relentless Dragon - Londonderry, New Hampshire, USA (EN)",
       "url": "https://relentlessdragon.com/"
     },
-{
+    {
       "title": "Midgard Comics and Games - Derry, New Hampshire, USA (EN)",
       "url": "https://www.midgardhobbiesandgames.com/"
     }
-	],
-"newjerseyresources": [
+  ],
+  "newjerseyresources": [
     {
       "title": "Greg's Games - Hamilton, New Jersey, USA (EN)",
       "url": "https://www.gregsgames.com/"
     },
-{
+    {
       "title": "Jersey's Cards and Comics - Yorktown, Virginia, USA (EN)",
       "url": "https://jerseyscc.com/"
     }
-],
-"newmexicoresources": [
-{
+  ],
+  "newmexicoresources": [
+    {
       "title": "Rocket City Gaming Lounge - Alamogordo, New Mexico, USA (EN)",
       "url": "https://www.facebook.com/RocketCityGL"
     }
-	],
-"northdakotaresources": [
-{
+  ],
+  "northdakotaresources": [
+    {
       "title": "Little Big Wars - Fargo, North Daktota, USA (EN)",
       "url": "https://littlebigwars.com/"
     }
-	],	
-"ohioresources": [
-{
+  ],
+  "ohioresources": [
+    {
       "title": "Flying Monkey Games - Delaware, Ohio, USA (EN)",
       "url": "https://www.flyingmonkeycomics.com/"
-    },
-	],
-"oklahomaresources": [
-{
+    }
+  ],
+  "oklahomaresources": [
+    {
       "title": "Edmond Unplugged - Edmond, Oklahoma, USA (EN)",
       "url": "http://edmondunplugged.com/"
-    },
-	],
-"pennsylvaniaresources": [
-{
+    }
+  ],
+  "pennsylvaniaresources": [
+    {
       "title": "Sports Zone Toys and Comics - Sunbury, Pennsylvania, USA (EN)",
       "url": "https://sportszonetoyscomics.com/"
     },
-	{
+    {
       "title": "Six Feet Under Games - New Holland, Pennsylvania, USA (EN)",
       "url": "https://www.sixfeetundergames.com/"
     },
-	{
+    {
       "title": "Enter the Realm - Springfield, Pennsylvania, USA (EN)",
       "url": "https://www.etrminimen.com/"
     },
-	{
+    {
       "title": "Lookin' For Games - Levittown, Pennsylvania, USA (EN)",
       "url": "https://www.lookinforgames.com/"
     },
-{
+    {
       "title": "Wade's Comic Madness - Levittown, Pennsylvania, USA (EN)",
       "url": "https://m.facebook.com/comicmadness/"
-    },
-],
-"tennesseeresources": [
-{
+    }
+  ],
+  "tennesseeresources": [
+    {
       "title": "War Room Hobbies - Cordova, Tennessee, USA (EN)",
       "url": "https://www.warroomhobbies.com/index.html"
     },
-	{
+    {
       "title": "The Warp - Powell, Tennessee, USA (EN)",
       "url": "https://www.facebook.com/thewarpknoxville"
-    },
-	],
-"texasresources": [
-{
+    }
+  ],
+  "texasresources": [
+    {
       "title": "Arrowstar Games - Stephenville, Texas, USA (EN)",
       "url": "http://arrowstargames.tcgplayerpro.com/"
     },
-	{
+    {
       "title": "Stormcrow Games - Lubbock, Texas, USA (EN)",
       "url": "https://www.stormcrow-games.com/"
     },
-	{
+    {
       "title": "LionHeart Hobby - Kyle, Texas, USA (EN)",
       "url": "https://lionhearthobby.com/"
-    },
-"virginiaresources": [
-{
+    }
+  ],
+  "virginiaresources": [
+    {
       "title": "Game Garrison - Fredericksburg, Virginia, USA (EN) ",
       "url": "https://www.facebook.com/GameGarrison/"
     }
-	],
-"wisconsinresources": [
+  ],
+  "wisconsinresources": [
     {
       "title": "Noble Knight Games - Fitchburg, Wisconsin, USA (EN)",
       "url": "https://www.nobleknight.com/"
     },
-{
+    {
       "title": "Odin Games and Hobby - Schofield, Wisconsin, USA (EN)",
       "url": "https://www.odingamesandhobby.com/"
     }
-	],
-"spainresources": [
-  {
+  ],
+  "spainresources": [
+    {
       "title": "La Escotilla Juegos - Murcia, Spain (ES)",
       "url": "https://www.laescotillajuegos.com/collections/conquest-en-stock"
-    },
-],
-"caontarioresources": [
+    }
+  ],
+  "caontarioresources": [
     {
       "title": "Torchlight Games and Hobbies - Burlington, Ontario, Canada (EN)",
       "url": "https://torchlightgh.com/"
     },
-{
+    {
       "title": "Tistaminis - Hamilton, Ontario, Canada (EN)",
       "url": "https://tistaminis.com/"
     },
-{
+    {
       "title": "Black Knight Games - Hamilton, Ontario, Canada (EN)",
       "url": "https://blackknightgames.ca/"
     },
-{
+    {
       "title": "Meeplemart - Toronto, Ontario, Canada (EN)",
       "url": "https://www.meeplemart.com/"
     },
-{
+    {
       "title": "Lightspeed Global - Toronto, Ontario, Canada (EN)",
       "url": "https://www.lsghobby.com/product/new/0"
     },
-	{
+    {
       "title": "The Hobby Centre - Ottawa, Ontario, Canada (EN)",
       "url": "https://www.hobcen.com/"
-    },
-]
+    }
+  ]
 }
