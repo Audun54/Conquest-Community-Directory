@@ -15,4 +15,10 @@
       "url": "https://cargad.com/"
     }
   ]
+"blogs": [
+         {
+      "title": "shiny penny musings",
+      "url": "https://shinypennymusings.wordpress.com/"
+    }
+]
 }
