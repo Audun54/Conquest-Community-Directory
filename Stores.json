@@ -7,6 +7,48 @@
       "url": "https://www.facebook.com/GamersNGeeks/"
     }
   ],
+  "californiaresources": [
+   {
+      "title": "Game Kastle - Sacramento - Sacramento, California, USA (EN)",
+      "url": "https://gamekastle.com/stores/sacramento/"
+    },
+     {
+      "title": "Great Escape Games - Sacramento, California, USA (EN)",
+      "url": "https://www.greatescapegames.com/"
+    },
+     {
+      "title": "Game Kastle - Fremont - Fremont, California, USA (EN)",
+      "url": "https://gamekastle.com/stores/fremont/"
+    },
+     {
+      "title": "Game Kastle - Redwood City - Redwood City, California, USA (EN)",
+      "url": "https://gamekastle.com/stores/redwoodcity/"
+    },
+     {
+      "title": "Game Kastle - Santa Clara - Santa Clara, California, USA (EN)",
+      "url": "https://gamekastle.com/stores/santaclara/"
+    },
+       {
+      "title": "At Ease Games - San Diego, California, USA (EN)",
+      "url": "https://www.facebook.com/ateasegames"
+    },
+       {
+      "title": "Brookhurst Hobbies - Garden Grove, California, USA (EN)",
+      "url": "https://brookhursthobbies.com/"
+    },
+       {
+      "title": "Gameology - Upland, California, USA (EN)",
+      "url": "https://gameologygames.com/"
+    },
+       {
+      "title": "Lost Planet Games - Torrance, California, USA (EN)",
+      "url": "https://www.facebook.com/LostPlanetGames/"
+    },
+         {
+      "title": "Gameology - Pasadena, California, USA (EN)",
+      "url": "https://gameologygames.com/"
+    }
+  ],
   "connecticutresources": [
     {
       "title": "The Portal - Manchester, Connecticut, USA (EN)",
@@ -17,7 +59,19 @@
     {
       "title": "Bearded Browncoat Comics and Games - Ocala, Florida, USA (EN)",
       "url": "http://browncoatcomicsandgames.com/"
-    }
+    },
+        {
+      "title": "Humble Hero Games - New Port Richey, Florida, USA (EN)",
+      "url": "https://www.humbleherogames.com/"
+    },
+        {
+      "title": "Johnny B's Comics and Cards - Lakeland, Florida, USA (EN)",
+      "url": "https://www.johnnybcardsandcomics.com/"
+    },
+        {
+      "title": "Gods and Monsters - Orlando, Florida, USA (EN)",
+      "url": "https://www.godmonsters.com/"
+    },
   ],
   "georgiaresources": [
     {
@@ -32,6 +86,12 @@
       "title": "Quest Comic Shop - Carrollton, Georgia, USA (EN)",
       "url": "http://www.questcomicshop.com/"
     }
+  ],
+  "hawaiiresources": [
+ {
+      "title": "The Armchair Adventurer - Honolulu, Hawaii, USA (EN)",
+      "url": "http://the-armchair-adventurer.com/"
+    },
   ],
   "illinoisresources": [
     {
@@ -101,6 +161,16 @@
     {
       "title": "King of Games - Miles City, Montana, USA (EN)",
       "url": "https://www.facebook.com/kingofgamesMC/"
+    },
+    {
+      "title": "White Knight Games & Hobbies - Helena, Montana, USA (EN)",
+      "url": "https://whiteknightgameshobbies.business.site/"
+    }
+  ],
+  "nevadaresources": [
+   {
+      "title": "Game Kastle - Reno - Reno, Nevada, USA (EN)",
+      "url": "https://www.gamekastle.com/stores/reno/"
     }
   ],
   "newhampshireresources": [
@@ -197,10 +267,30 @@
       "url": "https://lionhearthobby.com/"
     }
   ],
+  "utahresources": [
+      {
+      "title": "M R S Hobby Shop - Sandy, Utah, USA (EN)",
+      "url": "https://www.mrshobby.com/"
+    },
+     {
+      "title": "Game Haven STG - St. George, Utah, USA (EN)",
+      "url": "http://www.yourgamehaven.com/locations/saint-george-utah/"
+    }
+  ],
   "virginiaresources": [
     {
-      "title": "Game Garrison - Fredericksburg, Virginia, USA (EN) ",
+      "title": "Game Garrison - Fredericksburg, Virginia, USA (EN)",
       "url": "https://www.facebook.com/GameGarrison/"
+    }
+  ],
+  "washingtonresources": [
+   {
+      "title": "Nomad Games and Hobbies - Lynnwood, Washington, USA (EN)",
+      "url": "https://www.facebook.com/NomadGamesandHobbies/"
+    },
+    {
+      "title": "Wishes Toys Books and Games - Everett, Washington, USA (EN)",
+      "url": "https://www.wishestoysbooksgames.com/"
     }
   ],
   "wisconsinresources": [
@@ -219,11 +309,23 @@
       "url": "https://www.laescotillajuegos.com/collections/conquest-en-stock"
     }
   ],
+  "canewbrunswickresources": [
+{
+      "title": "Carl G Wargaming - Oromocto, New Brunswick, Canada (EN)",
+      "url": "https://www.facebook.com/Carl-G-Wargaming-315357566010998/"
+    }
+  ],
+  "canovascotiaresources": [
+{
+      "title": "Maritime Hobbies & Crafts Ltd - Halifax, Nova Scotia, Canada (EN)",
+      "url": "https://maritimehobbies.ca/"
+    }
+  ],
   "caontarioresources": [
     {
       "title": "Torchlight Games and Hobbies - Burlington, Ontario, Canada (EN)",
       "url": "https://torchlightgh.com/"
-    },
+    }
     {
       "title": "Tistaminis - Hamilton, Ontario, Canada (EN)",
       "url": "https://tistaminis.com/"
@@ -243,6 +345,12 @@
     {
       "title": "The Hobby Centre - Ottawa, Ontario, Canada (EN)",
       "url": "https://www.hobcen.com/"
+    }
+  ],
+  "guatemalaresources": [
+ {
+      "title": "Duende Tacaño - Guatemala City, Guatemala (ES)",
+      "url": "https://www.facebook.com/duendeusurero/"
     }
   ]
 }
