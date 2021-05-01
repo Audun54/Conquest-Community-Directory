@@ -1,7 +1,7 @@
 {
   "title": "Websites",
   "slug": "/websites",
-  "resources": [
+  "webresources": [
      {
       "title": "Conquest Eternal (EN)",
       "url": "https://conquesteternal.com"
@@ -19,7 +19,7 @@
       "url": "https://www.orderofgamers.com/games/conquest/"
     }
   ],
-"blogs": [
+"blogresources": [
          {
       "title": "shiny penny musings",
       "url": "https://shinypennymusings.wordpress.com/"
